@@ -20,7 +20,7 @@
 
 ## 🔥 Transparency
 
-✅ **Liquidity Locked**: 1.5 million tokens = 15% of supply has already been burned
+✅ **Liquidity Locked**: 1.5 million tokens = 15% of supply has already been burned however it's not showing up on the Kuru chart
 
 🔥 **Burn Address**: 0x0a484A4b68632C2E476D78951932865d6D60a1dB
 
