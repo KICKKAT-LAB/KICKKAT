@@ -24,7 +24,6 @@
 
 🔥 **Burn Address**: 0x0a484A4b68632C2E476D78951932865d6D60a1dB
 
-- working out all the token verifications at the moment this is our first project
 
 ----
 
